@@ -1,7 +1,7 @@
 # Wonka-Enterprises-Business-Intelligence-Analysis
 
 
-![Wonka BI Dashboard](Sales_report.JPEG)
+![Wonka BI Dashboard](Sales_report.jpg)
 
 ## Overview
 An end-to-end Business Intelligence project analyzing sales, profitability, customer behavior, and operational performance at Wonka Enterprises using SQL and Power BI.
